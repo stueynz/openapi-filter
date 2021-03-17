@@ -1,4 +1,4 @@
-# openapi-filter
+# openapi-filter :)
 
 ![ci](https://github.com/Mermade/openapi-filter/workflows/ci/badge.svg)
 
